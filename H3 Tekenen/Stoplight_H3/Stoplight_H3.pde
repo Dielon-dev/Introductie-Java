@@ -1,0 +1,17 @@
+size(800,800);
+background(100,100,100);
+fill(0,0,0);
+rect(375,200,50,700);
+fill(255,255,255);
+ellipse(400,325,325,525);
+fill(0,0,0);
+ellipse(400,325,300,500);
+fill(255,0,0);
+noStroke();
+ellipse(400,200,100,100);
+fill(0,255,0);
+noStroke();
+ellipse(400,450,100,100);
+fill(255,165,0);
+noStroke();
+ellipse(400,325,100,100);
