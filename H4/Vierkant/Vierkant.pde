@@ -1,0 +1,10 @@
+size(400,400);
+int hoofd = 80;
+int marwan = 120;
+int alan = 160;
+noFill();
+ellipse (alan+40, marwan+35, hoofd, hoofd);
+ellipse (alan+100, marwan, hoofd, hoofd);
+ellipse (alan+20, marwan, hoofd, hoofd);
+ellipse (alan+80, marwan+35, hoofd, hoofd);
+ellipse (alan+60, marwan, hoofd, hoofd);
